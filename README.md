@@ -19,3 +19,6 @@ To have code we can use for hands on exercises.
 
   <title>Eleni Hatzidis</title>
   <meta name="description" content="Eleni's page">
+
+<body>
+
