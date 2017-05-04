@@ -1,6 +1,3 @@
-
-
-
 # 424-web-example
 Learning example repository for ISOM 424 students.
 
@@ -12,6 +9,11 @@ To have code we can use for hands on exercises.
 
 ##Conflict on Master
 To have code we can use for hands on exercises. We are also using this to see how rebasing and merging works.
+
+##Conflict on ConflictBranch
+This section is now different on the conflictBranch as soon as we save, close, add, and commit it.
+
+
 
 <!doctype html>
 <!--
