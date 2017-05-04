@@ -7,6 +7,9 @@ This project enables us to lear source code control using Git.
 ##Purpose
 To have code we can use for hands on exercises. 
 
+##No More Conflcits
+We can merge back into Master without any trouble.
+
 ##Conflict on Master
 To have code we can use for hands on exercises. We are also using this to see how rebasing and merging works.
 
