@@ -9,6 +9,10 @@ This project enables us to lear source code control using Git.
 
 ##Purpose
 To have code we can use for hands on exercises. 
+
+##Conflict on Master
+To have code we can use for hands on exercises. We are also using this to see how rebasing and merging works.
+
 <!doctype html>
 <!--
   Adding changes prior to rebase
